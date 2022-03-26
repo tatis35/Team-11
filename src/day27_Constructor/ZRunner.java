@@ -10,7 +10,7 @@ public class ZRunner {
         System.out.println(obj2); // Isim : Emre, Soyisim Dh, Numara : 55
 
         Z obj3= new Z("Ali","Can",50);
-        7
+
 
     }
 }
