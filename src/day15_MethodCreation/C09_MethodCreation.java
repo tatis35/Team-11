@@ -6,7 +6,7 @@ public class C09_MethodCreation {
     String soyisim= "sari";
     String kKNo="1234567890128795";
     // eger bir method'dan bir islem yapmasini
-    // ve yaptigi islemi bize getirmesini isterseniz
+    // ve yaptigi islemi bize getirmesini istersenizh
     // return type void degil, bize getirecegi sonucun data turunde olmalidir
     String gizlenmisIsimSoyisim= isimSoyisimGizle(isim,soyisim);
     // bana isim ve soyismin gizlenmis halini getirmesini istiyorum

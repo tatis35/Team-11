@@ -2,7 +2,8 @@ package day10_switch_StringManipulation;
 
 import java.util.Scanner;
 
-public class C01_SwitchCase {
+public class
+C01_SwitchCase {
 
 
     public static void main(String[] args) {

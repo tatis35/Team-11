@@ -15,7 +15,7 @@ public class C02_MethodCreation {
             Scanner scan = new Scanner(System.in);
             System.out.println("Lutfen bir kelime giriniz");
             String kelime = scan.next();
-            String tersKelime = "";
+            String tersKelime ="";
             if (kelime.length() < 3) {
                 System.out.println("kelime cok kisa");
             } else if (kelime.length() <= 5) {

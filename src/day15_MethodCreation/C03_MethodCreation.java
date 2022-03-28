@@ -29,6 +29,9 @@ public class C03_MethodCreation {
         System.out.println("kelime cok uzun");
     }
 }
+
+// 1- method olusturmak icin method'un adini yazariz.
+    // 2- method'a gidereken göturmem gereken variale varsa
     private static void besHarfiTersineCevir(String kelime) {
         String tersKelime= kelime.substring(4)+
                 kelime.substring(3,4)+
